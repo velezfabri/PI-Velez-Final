@@ -1,0 +1,26 @@
+{
+  "train": {
+    "gt_empty": [
+      "hepaticvessel_138_1",
+      "hepaticvessel_141_1",
+      "hepaticvessel_141_3",
+      "hepaticvessel_173_1",
+      "hepaticvessel_223_1",
+      "hepaticvessel_275_1",
+      "hepaticvessel_287_1",
+      "hepaticvessel_291_1",
+      "hepaticvessel_299_1",
+      "hepaticvessel_345_1",
+      "hepaticvessel_369_1",
+      "hepaticvessel_375_1"
+    ],
+    "dice_zero": []
+  },
+  "val": {
+    "gt_empty": [
+      "hepaticvessel_279_1",
+      "hepaticvessel_333_1"
+    ],
+    "dice_zero": []
+  }
+}

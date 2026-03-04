@@ -1,0 +1,2 @@
+Tiempo total entrenamiento (s): 34834.4
+Tiempo total entrenamiento (h): 9.68
